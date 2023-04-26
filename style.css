@@ -1,0 +1,21 @@
+.navbar{
+    padding: 10px 100px;
+}
+.searchbox{
+    width: 20%;
+}
+.main__top{
+    padding: 10px 100px;
+    margin-top: 20px;
+
+}
+.main__cards{
+    padding: 40px 100px;
+    margin-top: 20px;
+    display: flex;
+    gap: 183px;
+    flex-wrap: wrap;
+}
+img{
+    height: 200px;
+}
